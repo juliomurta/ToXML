@@ -1,0 +1,7 @@
+C:\Users\Júlio C\Desktop\dilma e os animais\ToXml\Br.Julio.ToXml\Br.Julio.ToXml.Test\bin\Debug\Br.Julio.ToXml.Test.exe
+C:\Users\Júlio C\Desktop\dilma e os animais\ToXml\Br.Julio.ToXml\Br.Julio.ToXml.Test\bin\Debug\Br.Julio.ToXml.Test.pdb
+C:\Users\Júlio C\Desktop\dilma e os animais\ToXml\Br.Julio.ToXml\Br.Julio.ToXml.Test\bin\Debug\Br.Julio.ToXml.dll
+C:\Users\Júlio C\Desktop\dilma e os animais\ToXml\Br.Julio.ToXml\Br.Julio.ToXml.Test\bin\Debug\Br.Julio.ToXml.pdb
+C:\Users\Júlio C\Desktop\dilma e os animais\ToXml\Br.Julio.ToXml\Br.Julio.ToXml.Test\obj\x86\Debug\Br.Julio.ToXml.Test.csprojResolveAssemblyReference.cache
+C:\Users\Júlio C\Desktop\dilma e os animais\ToXml\Br.Julio.ToXml\Br.Julio.ToXml.Test\obj\x86\Debug\Br.Julio.ToXml.Test.exe
+C:\Users\Júlio C\Desktop\dilma e os animais\ToXml\Br.Julio.ToXml\Br.Julio.ToXml.Test\obj\x86\Debug\Br.Julio.ToXml.Test.pdb

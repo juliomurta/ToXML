@@ -1,0 +1,4 @@
+C:\Users\Júlio C\Desktop\dilma e os animais\ToXml\Br.Julio.ToXml\Br.Julio.ToXml\bin\Release\Br.Julio.ToXml.dll
+C:\Users\Júlio C\Desktop\dilma e os animais\ToXml\Br.Julio.ToXml\Br.Julio.ToXml\bin\Release\Br.Julio.ToXml.pdb
+C:\Users\Júlio C\Desktop\dilma e os animais\ToXml\Br.Julio.ToXml\Br.Julio.ToXml\obj\Release\Br.Julio.ToXml.dll
+C:\Users\Júlio C\Desktop\dilma e os animais\ToXml\Br.Julio.ToXml\Br.Julio.ToXml\obj\Release\Br.Julio.ToXml.pdb
